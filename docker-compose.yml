@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  devtools:
+    build: .
+    volumes:
+      - .:/working
+    working_dir: /working

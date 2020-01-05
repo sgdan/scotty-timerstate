@@ -1,0 +1,5 @@
+dist-newstyle
+result
+.docker
+cabal.project.local
+cabal.project.local~
